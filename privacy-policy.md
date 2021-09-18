@@ -1,46 +1,43 @@
-Privacy Policy  
+Kebijakan Privasi  
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Kelola Usaha App, how Kelola Usaha App uses it, and what choices you have.
-Kelola Usaha App built the Kelola Usaha app as a free app. This SERVICE is provided by Kelola Usaha App at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Kebijakan privasi kami akan membantu Anda memahami informasi apa yang kami kumpulkan di Aplikasi Kelola Usaha, bagaimana Aplikasi Kelola Usaha menggunakannya, dan pilihan apa yang Anda miliki. Aplikasi Kelola Usaha membangun aplikasi Kelola Usaha sebagai aplikasi gratis. LAYANAN ini disediakan oleh Aplikasi Kelola Usaha tanpa biaya dan dimaksudkan untuk digunakan apa adanya. Jika Anda memilih untuk menggunakan Layanan kami, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
+Istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di situs web kami, kecuali ditentukan lain dalam Kebijakan Privasi ini.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### Pengumpulan dan Penggunaan Informasi
+Untuk pengalaman yang lebih baik saat menggunakan Layanan kami, kami mungkin meminta Anda untuk memberikan kami informasi pengenal pribadi tertentu, termasuk namun tidak terbatas pada nama pengguna, alamat email, jenis kelamin, lokasi, gambar. Informasi yang kami minta akan disimpan oleh kami dan digunakan seperti yang dijelaskan dalam kebijakan privasi ini.
+Aplikasi ini menggunakan layanan pihak ketiga yang dapat mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### Cookie
+Cookie adalah file dengan sejumlah kecil data yang biasanya digunakan sebagai pengenal unik anonim. Ini dikirim ke browser Anda dari situs web yang Anda kunjungi dan disimpan di memori internal perangkat Anda.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Layanan ini tidak menggunakan “cookie” ini secara eksplisit. Namun, aplikasi dapat menggunakan kode dan perpustakaan pihak ketiga yang menggunakan "cookies" untuk mengumpulkan informasi dan untuk meningkatkan layanan mereka. Anda memiliki pilihan untuk menerima atau menolak cookie ini, dan mengetahui kapan cookie dikirim ke perangkat Anda. Jika Anda memilih untuk menolak cookie kami, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan ini.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### Informasi Lokasi
+Beberapa layanan mungkin menggunakan informasi lokasi yang dikirimkan dari ponsel pengguna. Kami hanya menggunakan informasi ini dalam lingkup yang diperlukan untuk layanan yang ditunjuk.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Informasi Perangkat
+Kami mengumpulkan informasi dari perangkat Anda dalam beberapa kasus. Informasi tersebut akan digunakan untuk penyediaan layanan yang lebih baik dan untuk mencegah tindakan penipuan. Selain itu, informasi tersebut tidak akan mencakup informasi yang akan mengidentifikasi pengguna individu.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+### Penyedia Jasa
+Kami dapat mempekerjakan perusahaan dan individu pihak ketiga karena alasan berikut:
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+* Untuk memfasilitasi Layanan kami;
+* Untuk menyediakan Layanan atas nama kami;
+* Untuk melakukan layanan terkait Layanan; atau
+* Untuk membantu kami dalam menganalisis bagaimana Layanan kami digunakan.
+* Kami ingin memberi tahu pengguna Layanan ini bahwa pihak ketiga ini memiliki akses ke Informasi Pribadi Anda. Alasannya adalah untuk melakukan tugas yang diberikan kepada mereka atas nama kita. Namun, mereka berkewajiban untuk tidak mengungkapkan atau menggunakan informasi tersebut untuk tujuan lain.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Keamanan
+Kami menghargai kepercayaan Anda dalam memberikan Informasi Pribadi Anda kepada kami, oleh karena itu kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindunginya. Tetapi ingat bahwa tidak ada metode transmisi melalui internet, atau metode penyimpanan elektronik yang 100% aman dan andal, dan kami tidak dapat menjamin keamanan mutlaknya.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### Privasi Anak-anak
+Layanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun. Kami tidak dengan sengaja mengumpulkan informasi pengenal pribadi dari anak-anak di bawah 13 tahun. Jika kami menemukan bahwa seorang anak di bawah 13 tahun telah memberi kami informasi pribadi, kami segera menghapusnya dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui bahwa anak Anda telah memberikan informasi pribadi kepada kami, silakan hubungi kami agar kami dapat melakukan tindakan yang diperlukan.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### Perubahan pada Kebijakan Privasi Ini
+Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Oleh karena itu, Anda disarankan untuk meninjau halaman ini secara berkala untuk setiap perubahan. Kami akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman ini. Perubahan ini berlaku segera, setelah diposting di halaman ini.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: kukelolausahaku@gmail.com  
+### Hubungi Kami
+Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami.
+Kontak informasi:
+Email: kukelolausahaku@gmail.com
