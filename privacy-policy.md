@@ -1,7 +1,7 @@
 Kebijakan Privasi  
 ----------------
 
-Kebijakan privasi kami akan membantu Anda memahami informasi apa yang kami kumpulkan di Aplikasi Kelola Usaha, bagaimana Aplikasi Kelola Usaha menggunakannya, dan pilihan apa yang Anda miliki. Aplikasi Kelola Usaha membangun aplikasi Kelola Usaha sebagai aplikasi gratis. LAYANAN ini disediakan oleh Aplikasi Kelola Usaha tanpa biaya dan dimaksudkan untuk digunakan apa adanya. Jika Anda memilih untuk menggunakan Layanan kami, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
+Kebijakan privasi kami akan membantu Anda memahami informasi apa yang kami kumpulkan di dalam aplikasi, bagaimana menggunakannya, dan pilihan apa yang Anda miliki. Aplikasi ini adalah aplikasi gratis. LAYANAN ini disediakan tanpa biaya dan dimaksudkan untuk digunakan apa adanya. Jika Anda memilih untuk menggunakan Layanan kami, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
 Istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di situs web kami, kecuali ditentukan lain dalam Kebijakan Privasi ini.
 
 ### Pengumpulan dan Penggunaan Informasi
